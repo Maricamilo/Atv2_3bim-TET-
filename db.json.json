@@ -1,0 +1,115 @@
+{
+    "Livros": [{
+            "id": 1,
+            "idLoja": 1,
+            "nome": " Livro - A Culpa É Das Estrelas ",
+            "assunto": " Ficção infantil / para adolescentes: ficção geral, Temas pessoais e/ou sociais de crianças / adolescentes: morte e luto, Ficção infantil / para adolescentes: histórias de relacionamento - romance, amor ou amizade ",
+            "sinopse": " Hazel é um paciente terminal. Ainda que, por um milagre da medicina, seu tumor tenha sido colhido bastante — o que lhe dá a promessa de viver mais alguns anos —, o último capítulo de sua história foi escrito no momento do diagnóstico. "
+        },
+        {
+            "id": 2,
+            "idLoja": 2,
+            "nome": " Livro - A Rainha Vermelha ",
+            "assunto": " Literatura Estrangeira - Ficção Fantasiosa ",
+            "sinopse": "Mare e família são vermelhos :  a uma elite prateada potencialmente poderosa sobrenaturais os tornam deuses. Mare rouba o que pode para quase Entretanto, numa esperança de emprego no palácio real, onde, em frente ao rei e a toda a misteriosa, descobre que tem um poder misterioso. Mas como isso seria possível, se seu sangue é vermelho? "
+        },
+        {
+            "id": 3,
+            "idLoja": 5,
+            "nome": " Livro - O Diário De Anne Frank ",
+            "assunto": " Memórias,Biografia: geral,Estudos de gênero: mulheres e/ou meninas,Holocausto ",
+            "sinopse": " O diário de Anne Frank, o depoimento da pequena Anne, mortos pelos nazistas após passar anos escondidos no sótão de uma casa em Amsterdã, ainda emociona hoje no mundo inteiro. pequenass de uma menina judia que, como sua família, lutou em vão para sobreviver ao Holocausto. "
+        },
+        {
+            "id": 4,
+            "idLoja": 3,
+            "nome": " Livro - É Assim Que Acaba ",
+            "assunto": " Romance, Romance contemporâneo, Ficção da vida familiar ",
+            "sinopse": " Lily, uma jovem que se mudou de uma cidadezinha do Maine para Boston, se formou em marketing e abriu uma própria floricultura. E é em um dos terraços de Boston que ela conhece Ryle, um neurocirurgião confiante, teimoso e talvez até um pouco arrogante, com uma grande aversão a relacionamentos, mas que se sente muito atraído por ela. , por mais que seja sério ? "
+        },
+        {
+            "id": 5,
+            "idLoja": 2,
+            "nome": "Livro - Ted Bundy: Um Estranho ao Meu Lado",
+            "assunto": "Crimes Reais Biografias e Memórias",
+            "sinopse": "Quando Ann Rule conheceu Ted Bundy em um centro de atendimento de prevenção ao suicídio, ela não fazia ideia de que aquele rapaz simpático e inteligente ― que sentava ao lado dela e de quem até chegou a receber um cartão de Natal ― se tornaria um dos serial killers mais proeminentes da história. Ted Bundy confessou ter matado ao menos 36 mulheres nos Estados Unidos durante os anos 1970. Para estudiosos do caso, a contagem final é ainda maior. Ele pode até ter salvado vidas pelo centro de prevenção, mas ceifou outras dezenas quando ninguém estava olhando. Inúmeras famílias ficaram sem respostas, e ele foi executado em 1989 na cadeira elétrica. Mas estas informações todo mundo conhece. Chegou a hora de saber mais. Ted Bundy: Um Estranho ao Meu Lado é o livro de true crime mais aguardado pelos darksiders e chega como um clássico na coleção Crime Scene®, da DarkSide® Books."
+        },
+        {
+            "id": 6,
+            "idLoja": 4,
+            "nome": "Livro - O aprendiz de assassino: 1",
+            "assunto": "Fantasia Histórica",
+            "sinopse": "Com personagens cativantes, tramas políticas complexas e lutas cheias de magia e reviravoltas, O aprendiz de assassino é tudo o que um fã do gênero pode esperar de uma ótima fantasia épica."
+        },
+        {
+            "id": 7,
+            "idLoja": 2,
+            "nome": "Livro - A garota do lago",
+            "assunto": "Ficção Científica",
+            "sinopse": "Summit Lake, uma pequena cidade entre montanhas, é esse tipo de lugar, bucólico e com encantadoras casas dispostas à beira de um longo trecho de água intocada.Duas semanas atrás, a estudante de direito Becca Eckersley foi brutalmente assassinada em uma dessas casas."
+        },
+        {
+            "id": 8,
+            "idLoja": 3,
+            "nome": "Livro - Six of crows: Sangue e mentiras",
+            "assunto": "Ficção Contemporânea Literatura e Ficção",
+            "sinopse": "Seis criminosos, um alvo. Uma recompensa imensurável em troca do resgate de um prisioneiro numa das mais fortificadas prisões de todo aquele mundo. Uma chance de começar de novo para cada um deles, e uma oportunidade de deixar suas marcas na história como foras da lei implacáveis. Six of Crows é a história sobre um grupo de criminosos tentando salvar o seu mundo."
+        },
+        {
+            "id": 9,
+            "idLoja": 4,
+            "nome": "Livro - Imperfeitos",
+            "assunto": "Ficção Contemporânea Literatura e Ficção",
+            "sinopse": "Olive se sente como a gêmea azarada da casa: dos acidentes estranhamente inexplicáveis ao fracasso na vida profissional e amorosa ― nada dá certo para ela. Porém, parece que o jogo vira quando sua alergia a frutos do mar a protege de um desastre, já que todos os convidados da festa de casamento da irmã sofrem com intoxicação alimentar. "
+        },
+        {
+            "id": 10,
+            "idLoja": 5,
+            "nome": " Livro - A desobediência civil",
+            "assunto": "Clássicos de Ficção",
+            "sinopse": "O icônico ensaio que inspirou de Mahatma Gandhi a Martin Luther King Jr. e consolidou a transgressão da lei como estratégia de resistência."
+        }
+    ],
+    "loja": [{
+            "id": 1,
+            "Loja": " Saraiva ",
+            "Estado": " Minas Gerais ",
+            "Cidade": " Juiz de Fora ",
+            "Endereço": " Av. Presidente Itamar Franco, 3600 - Cascatinha ",
+            "CEP": " 36033-318 "
+        },
+        {
+            "id": 2,
+            "Loja": " Papelaria Central ",
+            "Estado": " Minas Gerais ",
+            "Cidade": " Leopoldina ",
+            "Endereço": " Praça João XXIII, 23 - Centro ",
+            "CEP": " 36700-000 "
+        },
+        {
+            "id": 3,
+            "Loja": "Livraria e Locadora Bompastor",
+            "Estado": " Minas Gerais ",
+            "Cidade": "Cataguases",
+            "Endereço": "R. Cel. João Duarte, 78 - Centro",
+            "CEP": "36770-032"
+        },
+        {
+            "id": 4,
+            "Loja": "HEBROM - Livros e Presentes",
+            "Estado": "Minas Gerais",
+            "Cidade": "Pirapetinga",
+            "Endereço": "R. João Gomes Sobrinho - Centro",
+            "CEP": "36730-000"
+        },
+        {
+            "id": 5,
+            "Loja": "Livraria Arco-Íris",
+            "Estado": " Minas Gerais ",
+            "Cidade": " Juiz de Fora ",
+            "Endereço": "Garden Shopping - Rua Halfeld, 744, Lojas 2 e 4 - Centro",
+            "CEP": "36010-003"
+
+        }
+    ]
+}
